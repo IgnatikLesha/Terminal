@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Terminal.Properties
+namespace BestCard.Properties
 {
 
 
